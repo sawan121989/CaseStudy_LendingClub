@@ -41,8 +41,8 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by IITB ML and AI course from Upgrad
+- This project was inspired by IIITB ML and AI course from Upgrad
 
 
 ## Contact
-Created by [@sawan121989] and [@pramod-prasad01] - feel free to contact!
+Created by @sawan121989 and @pramod-prasad01 - feel free to contact!
